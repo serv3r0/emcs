@@ -8,10 +8,10 @@ Easy Minecraft Server Installer for Linux
 !Supported pakage managers : apt (Debian);
 
 How to use : 
-git clone https://github.com/serv3r0/emcs.git
-cd emcs
-chmod +x emcs.sh
-./emcs.sh
+- git clone https://github.com/serv3r0/emcs.git                         
+- cd emcs                      
+- chmod +x emcs.sh                
+- ./emcs.sh                          
 
 
 !Requirements: Java Development Kit (for running mc server. Latest JDK can be installed using script)
